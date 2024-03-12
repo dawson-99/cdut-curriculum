@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/iruihang/Desktop/Clion homework/lisan/testFour/main.cpp
+iostream
+-
+string
+-
+vector
+-
+numeric
+-
+algorithm
+-
+array
+-
+

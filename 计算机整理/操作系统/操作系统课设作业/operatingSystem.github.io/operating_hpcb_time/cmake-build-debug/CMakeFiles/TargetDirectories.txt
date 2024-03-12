@@ -1,0 +1,3 @@
+/Users/iruihang/Desktop/Clion/operatingSystem/operating_hpcb_time/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/iruihang/Desktop/Clion/operatingSystem/operating_hpcb_time/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/iruihang/Desktop/Clion/operatingSystem/operating_hpcb_time/cmake-build-debug/CMakeFiles/operating_hpcb.dir

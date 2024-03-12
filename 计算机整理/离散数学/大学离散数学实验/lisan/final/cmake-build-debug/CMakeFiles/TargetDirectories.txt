@@ -1,0 +1,2 @@
+/Users/iruihang/Desktop/Clion homework/lisan/final/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/iruihang/Desktop/Clion homework/lisan/final/cmake-build-debug/CMakeFiles/edit_cache.dir
